@@ -37,7 +37,7 @@ namespace SerialMate
                         help_browser.Navigate(base_url + "connectors.html");
                         break;
                     case "Settings":
-                        help_browser.Navigate(base_url + "settings.html");
+                        help_browser.Navigate(base_url + "home.html");
                         break;
                     case "Baud":
                         help_browser.Navigate(base_url + "baud.html");
@@ -67,6 +67,9 @@ namespace SerialMate
                         help_browser.Navigate(base_url + "about.html");
                         break;
                     case "Serial Protocol":
+                        help_browser.Navigate(base_url + "home.html");
+                        break;
+                    case "SerialMate":
                         help_browser.Navigate(base_url + "home.html");
                         break;
                     default:
