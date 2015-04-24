@@ -13,6 +13,8 @@ using System.Drawing;
 /*
  * No comments? 
  * Code hard to write must be hard to read!
+ * Released 25/4/2015
+ * Author: Meletis Flevarakis
  */
 namespace SerialMate
 {
