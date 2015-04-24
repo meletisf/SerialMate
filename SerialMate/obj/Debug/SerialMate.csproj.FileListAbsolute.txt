@@ -1,0 +1,12 @@
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\bin\Debug\SerialMate.exe.config
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\bin\Debug\SerialMate.exe
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\bin\Debug\SerialMate.pdb
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.csprojResolveAssemblyReference.cache
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.Properties.Resources.resources
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.csproj.GenerateResource.Cache
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.exe
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.pdb
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.interface_help.resources
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.serial_help.resources
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.home.resources
+C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Debug\SerialMate.server_settings.resources
