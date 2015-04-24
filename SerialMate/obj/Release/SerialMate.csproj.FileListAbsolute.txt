@@ -10,3 +10,15 @@ C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj
 C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.exe
 C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.pdb
 C:\Users\Meletis\documents\visual studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.csprojResolveAssemblyReference.cache
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\bin\Release\SerialMate.exe.config
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.exe
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.pdb
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\bin\Release\SerialMate.exe
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\bin\Release\SerialMate.pdb
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.csprojResolveAssemblyReference.cache
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.home.resources
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.interface_help.resources
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.Properties.Resources.resources
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.serial_help.resources
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.server_settings.resources
+C:\Users\Knackrack615\Documents\Visual Studio 2013\Projects\SerialMate\SerialMate\obj\Release\SerialMate.csproj.GenerateResource.Cache

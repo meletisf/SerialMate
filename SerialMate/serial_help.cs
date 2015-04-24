@@ -32,48 +32,63 @@ namespace SerialMate
                 {
                     case "Hardware":
                         help_browser.Navigate(base_url + "hardware.html");
+                        help_browser.Refresh();
                         break;
                     case "Connectors":
                         help_browser.Navigate(base_url + "connectors.html");
+                        help_browser.Refresh();
                         break;
                     case "Settings":
                         help_browser.Navigate(base_url + "home.html");
+                        help_browser.Refresh();
                         break;
                     case "Baud":
                         help_browser.Navigate(base_url + "baud.html");
+                        help_browser.Refresh();
                         break;
                     case "Data bits":
                         help_browser.Navigate(base_url + "databits.html");
+                        help_browser.Refresh();
                         break;
                     case "Parity":
                         help_browser.Navigate(base_url + "parity.html");
+                        help_browser.Refresh();
                         break;
                     case "Stop bits":
                         help_browser.Navigate(base_url + "stopbits.html");
+                        help_browser.Refresh();
                         break;
                     case "Flow control":
                         help_browser.Navigate(base_url + "flowcontrol.html");
+                        help_browser.Refresh();
                         break;
                     case "Usage":
                         help_browser.Navigate(base_url + "usage.html");
+                        help_browser.Refresh();
                         break;
                     case "Remote Server":
                         help_browser.Navigate(base_url + "remoteserver.html");
+                        help_browser.Refresh();
                         break;
                     case "Recipes":
                         help_browser.Navigate(base_url + "recipies.html");
+                        help_browser.Refresh();
                         break;
                     case "About":
                         help_browser.Navigate(base_url + "about.html");
+                        help_browser.Refresh();
                         break;
                     case "Serial Protocol":
                         help_browser.Navigate(base_url + "home.html");
+                        help_browser.Refresh();
                         break;
                     case "SerialMate":
                         help_browser.Navigate(base_url + "home.html");
+                        help_browser.Refresh();
                         break;
                     default:
                         help_browser.Navigate(base_url + "home.html");
+                        help_browser.Refresh();
                         break;
                 }
                 status_label.Text = "Done loaing...";
